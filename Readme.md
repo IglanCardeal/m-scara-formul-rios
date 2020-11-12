@@ -14,7 +14,7 @@ Máscara para Formulários
 
 <div align="center">
 
-![home](./img/home.png)
+![home](./img/home-app.png)
 
 </div>
 
